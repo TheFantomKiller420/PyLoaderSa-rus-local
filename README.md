@@ -1,28 +1,29 @@
 # PyLoader
 
-## Introduction
+## Введение
 
-This is a **.asi** plugin that allows writing custom Python scripts for GTA SanAndreas. This plugin is still in the early stages of development so, if you find and bugs or have feature suggestions let me know :\) 
+Это плагин **.asi**, который позволяет писать собственные скрипты Python для GTA SanAndreas.  Этот плагин все еще находится на ранних стадиях разработки, поэтому, если вы обнаружите ошибки или у вас есть предложения по добавлению нового функционала, дайте мне знать :) 
 
-**Python version**: 3.8x \(Windows 7+\)  
-**Sample scripts**: [here](https://github.com/user-grinch/PyLoaderSA/tree/master/examples)  
-**Plugin template**: [here](https://github.com/user-grinch/PyLoaderSA/tree/plugin-template)  
+**версия Python**: 3.8x \(Windows 7+\)  
+**Примеры скриптов**: [здесь](https://github.com/user-grinch/PyLoaderSA/tree/master/examples)  
+**Шаблон плагина**: [здесь](https://github.com/user-grinch/PyLoaderSA/tree/plugin-template)  
 
 [![Discord Banner 2](https://discordapp.com/api/guilds/689515979847237649/widget.png?style=banner2)](https://discord.com/invite/ZzW7kmf)
 
-## Installation
+## Установка
 
-1. You need gta_sa v1.0 US version of the game.
-2. Install [Visual C++ Redistributable 2022 x86](https://aka.ms/vs/17/release/vc_redist.x86.exe) and [asi loader](https://www.gtagarage.com/mods/show.php?id=21709)
-3. Download [PyLoader.7z](https://github.com/user-grinch/PyLoaderSA/releases) and extract everything in the game directory.
+1. Вам нужна версия игры gta_sa v1.0 для США.
+2. Установите [Visual C++ Выпуска 2022 x86](https://aka.ms/vs/17/release/vc_redist.x86.exe) и [asi loader](https://www.gtagarage.com/mods/show.php?id=21709)
+3. Скачайте [PyLoader.7z](https://github.com/user-grinch/PyLoaderSA/releases) и извлеките все в папку с игрой.
 
-## Credits
+## Благодврности
 
-1. [CLEO 4 devs](https://github.com/cleolibrary/CLEO4)
-2. [Plugin SDK devs](https://github.com/DK22Pac/plugin-sdk)
+1. [Разработчикам CLEO 4](https://github.com/cleolibrary/CLEO4)
+2. [ Разработчикам Plugin SDK](https://github.com/DK22Pac/plugin-sdk)
 
 
-## Developers
+## Разработчики
 
-There are detailed information about PyLoader as well as few examples in the new [Wiki](https://github.com/user-grinch/PyLoaderSA/wiki/)
+В новой [Вики](https://github.com/user-grinch/PyLoaderSA/wiki/)
+ есть подробная информация о PyLoader, а также несколько примеров.
 
