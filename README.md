@@ -24,6 +24,6 @@
 
 ## Разработчики
 
-В новой [Вики](https://github.com/user-grinch/PyLoaderSA/wiki/)
+В новой [Вики](https://github.com/TheFantomKiller420/PyLoaderSa-rus-local/wiki)
  есть подробная информация о PyLoader, а также несколько примеров.
 
